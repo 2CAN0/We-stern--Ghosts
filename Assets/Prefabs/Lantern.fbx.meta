@@ -3,7 +3,33 @@ guid: 3b5b4d6fcfccd8b408f78b7989068d3e
 ModelImporter:
   serializedVersion: 27
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: ad700162240916844872fe19de416376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CandleWax
+    second: {fileID: -126813446637608176, guid: e232622e2ee62794c9b1c72651bbe8f7,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flame
+    second: {fileID: 2100000, guid: 412f0c4ac91f5884c953186c34a2cb7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 1f054ff98f12b8c439975fe291d4229a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Light
+    second: {fileID: 2100000, guid: 0c2a4ddc2c90ec94c850ab744dc92f17, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

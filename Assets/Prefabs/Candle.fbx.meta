@@ -3,7 +3,27 @@ guid: 9d59882f62b021548af8d28a8fb5c227
 ModelImporter:
   serializedVersion: 27
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Candle
+    second: {fileID: 2100000, guid: 597ebcd4c409b8f4aafe5b96faef0a20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Flame
+    second: {fileID: 2100000, guid: 412f0c4ac91f5884c953186c34a2cb7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Lont
+    second: {fileID: 2100000, guid: ad700162240916844872fe19de416376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Silver_Metal
+    second: {fileID: 2100000, guid: 1f054ff98f12b8c439975fe291d4229a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
