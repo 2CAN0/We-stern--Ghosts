@@ -21,7 +21,7 @@ public class MiniMap : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        camera.fieldOfView = fov;
-        camera.targetTexture = rTexture;
+        //camera.fieldOfView = fov;
+        //camera.targetTexture = rTexture;
     }
 }
